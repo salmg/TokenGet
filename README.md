@@ -1,11 +1,13 @@
 # TokenGet
 TokenGet is a tool to intercept Samsung Pay tokens using a credit card reader and a raspberry zero.
 
-To run the *.py when raspberry zero boots up, you have to add a line of code to the /etc/profile file
-like this: 
+You must edit the email from hotmail and the password of the account.
+
+To run the *.py after raspberry zero boots up automatically, you have to add a line of code at the end of /etc/profile file: 
+
 sudo nano /etc/profile
 
-go to the last line and add it
+go to the end and add:
 
 sudo python ~/TokenGet.py
 
