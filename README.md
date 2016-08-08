@@ -1,18 +1,15 @@
 # TokenGet
+
 TokenGet is a tool to intercept Samsung Pay tokens using a credit card reader and a raspberry zero.
 
-TokenGet Hardware:
-Raspberry Zero
-Lipo 3.7 V
-PowerBoost 1000
-Credit Card reader one head
-USB adapters
-USB WIFI dongle 
-Mini OTG USB
+TokenGet device:
+Raspberry Zero, Lipo 3.7 V, PowerBoost 1000, Credit Card reader one head, USB adapters, USB WIFI dongle , Mini OTG USB,
 Cell phone armband
 
-You must edit the email from hotmail and the password of the account.
+However, the script does not need any special hardware to be executed.
 
+
+You must edit the email from hotmail and the password of the account.
 To run the *.py after raspberry zero boots up automatically, you have to add a line of code at the end of /etc/profile file: 
 
 sudo nano /etc/profile
