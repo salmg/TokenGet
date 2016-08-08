@@ -3,8 +3,8 @@
 TokenGet is a tool to intercept Samsung Pay tokens using a credit card reader and a raspberry zero.
 
 TokenGet device:
-Raspberry Zero, Lipo 3.7 V, PowerBoost 1000, Credit Card reader one head, USB adapters, USB WIFI dongle , Mini OTG USB,
-Cell phone armband
+Raspberry Zero, Lipo 3.7 V, PowerBoost 1000, Credit Card reader one head, USB adapters, USB WIFI dongle, Mini OTG USB,
+Cell phone armband.
 
 However, the script does not need any special hardware to be executed.
 
