@@ -1,4 +1,4 @@
-# TokenGet
+# TokenGet - POC video https://youtu.be/QMR2JiH_ymU
 
 TokenGet is a tool to intercept Samsung Pay tokens using a credit card reader and a raspberry zero.
 
