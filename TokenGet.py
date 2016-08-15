@@ -1,5 +1,4 @@
 #!/usr/bin/python
-from re import search
 from email import message_from_string
 from smtplib import SMTP
 from threading import Thread
